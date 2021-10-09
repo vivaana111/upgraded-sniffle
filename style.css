@@ -1,0 +1,43 @@
+body
+{
+	background : lightblue;
+	
+
+	.login_div1 , .login_div2
+	{
+		background : white;
+		padding : 10px;
+		float : none;
+		border-radius : 15px;
+	}
+    .h3
+    {
+font-family: a.ttf;
+    }
+
+
+#player1 , #player2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH28xobn-_GMp8DNX9_cL8ilyD6_k7pW_Iq47Y4Sh4pyjT1ty32-hVUwMMX4qQRdv1aNA&usqp=CAU);
+}
+
+
